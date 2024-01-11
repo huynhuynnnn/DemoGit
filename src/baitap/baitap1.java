@@ -308,6 +308,7 @@ public class baitap1{
                 System.out.println("4. Tinh tong luong");
                 System.out.println("5. Them 1 nhan vien.");
                 System.out.println("6. Xoa nhan vien");
+                System.out.println("Tam biet")
                 System.out.println("7. Thoat");
                 System.out.print("Lua chon: ");
                 select = sc.nextInt();
